@@ -18,7 +18,7 @@ Animal b = new Perro();
 Animal c = new Gato();
 Agregaremos a la lista a cada uno y luego, con un **/
 public class Animal {
-    
+    public int hola;
     public void hacerRuido() {
       
         System.out.println("Hola");
